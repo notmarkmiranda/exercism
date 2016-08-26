@@ -1,3 +1,4 @@
+
 class Sieve
   attr_reader :upper_limit
   def initialize(upper_limit)

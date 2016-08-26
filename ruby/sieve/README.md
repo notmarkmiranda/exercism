@@ -48,7 +48,11 @@ directory. For example, if the test suite is called
 
 To include color from the command line:
 
+<<<<<<< HEAD
     ruby -r minitest/pride hello_world_test.rb
+=======
+    ruby -rminitest/pride hello_world_test.rb
+>>>>>>> 9c96341e9a06da4e239aff75448b27b6b87a0c0a
 
 The test files may have the execution bit set so you may also be able to
 run it like this:
@@ -58,7 +62,10 @@ run it like this:
 ## Source
 
 Sieve of Eratosthenes at Wikipedia [http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+<<<<<<< HEAD
 
 ## Submitting Incomplete Problems
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
 
+=======
+>>>>>>> 9c96341e9a06da4e239aff75448b27b6b87a0c0a
